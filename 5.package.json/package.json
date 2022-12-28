@@ -1,0 +1,21 @@
+{
+  "name": "code-heist",
+  "version": "1.0.0",
+  "description": "this is for tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "code",
+    "youtube",
+    "java"
+  ],
+  "author": "Hritik",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {}
+}

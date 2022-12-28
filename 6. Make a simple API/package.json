@@ -1,0 +1,15 @@
+{
+  "name": "6.-make-a-simple-api",
+  "version": "1.0.0",
+  "description": "We will make a simple API with static data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "simple-api",
+    "postman"
+  ],
+  "author": "Hritik Manbattulwar",
+  "license": "ISC"
+}
