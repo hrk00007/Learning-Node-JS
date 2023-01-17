@@ -16,7 +16,7 @@ function App() {
           <Route exact path='/products' element={<ProductList />} />
           <Route exact path='/admin' element={<ProductAdmin />} />
           <Route exact path='/create-product' element={<CreateProduct />} />
-          <Route exact path='/update-product' element={<UpdateProduct />} />
+          <Route exact path='/update-product/:id' element={<UpdateProduct />} />
         </Routes>
       </BrowserRouter>
 
